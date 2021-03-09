@@ -1,0 +1,73 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  background: url(images/bg.jpg) no-repeat center center/cover;
+}
+
+main {
+  
+  height: 570px;
+}
+
+fieldset {
+  border: 1px solid #333;
+  padding: 10px;
+  background-color: rgba(96, 96, 96, 0.6);
+  
+}
+
+
+table, th, td {
+  border: 1px solid #fff;
+  padding: 20px;
+}
+
+nav {
+  border-bottom: 1px solid #fff;
+  background-color: rgba(96, 96, 96, 0.6);
+  padding: 20px;
+  height: 40px;
+}
+
+#logo {
+  float: left;
+  margin: auto;
+  color: #fff;
+  right: 50%;
+}
+
+ul {
+  float: right;
+}
+
+a {
+
+  padding: 30px;
+  color: #fff;
+}
+
+li {
+  float: left;
+}
+
+
+#left {
+  width 40%;
+  float: left;
+}
+
+#parent {
+  width: 40%;
+  float: right;
+  background-color: rgba(96, 96, 96, 0.6);
+  margin: auto;
+}
+
+inpt {
+  width: 40px;
+}
+
+footer {
+  text-align: center;
+  font-size: 15px;
+}
